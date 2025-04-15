@@ -16,4 +16,4 @@ n8n is the company behind n8n, the product. We're building a workflow automation
 - ⭐️ With over ~70k~ 80k stars, we are now part of the top 150 projects on GitHub
 - 🌱 We were Sequoia's first seed investment in Germany, and recently raised a $55m Series B round, led by Highland Capital
 
-We're on a mission to give technical people the powers of a 10x developer. <a href="https://n8n.io/careers">Join us!</a>
+We're on a mission to give technical people the powers of a 10x developer. [Join us!](https://n8n.io/careers)
