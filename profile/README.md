@@ -4,7 +4,7 @@ n8n is the company behind n8n, the product. We're building a workflow automation
 
 - Check out [our main project here](https://github.com/n8n-io/n8n).
 - Interested in working at n8n? See our [open positions](https://n8n.io/careers).
-- Learn more how to <a href="https://docs.n8n.io/hosting/">self-host n8n in our docs</a>. 
+- Learn more how to [self-host n8n in our docs](https://docs.n8n.io/hosting/). 
 - Not interested in hosting n8n yourself? We also offer <a href="https://n8n.io/cloud/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">n8n cloud</a> for a monthly fee. 
 - Both our team and our users have been building a <a href="https://n8n.io/workflows/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">workflow template library</a> to help others easily get started with n8n automations. 
 
