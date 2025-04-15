@@ -3,7 +3,7 @@
 n8n is the company behind n8n, the product. We're building a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a [fair-code license](https://faircode.io), n8n lets you build powerful automation while maintaining full control over your data and deployments.
 
 - Check out [our main project here](https://github.com/n8n-io/n8n).
-- Interested in working for n8n? See our<a href="https://n8n.io/careers"> open positions</a>.
+- Interested in working at n8n? See our [open positions](https://n8n.io/careers).
 - Learn more how to <a href="https://docs.n8n.io/hosting/">self-host n8n in our docs</a>. 
 - Not interested in hosting n8n yourself? We also offer <a href="https://n8n.io/cloud/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">n8n cloud</a> for a monthly fee. 
 - Both our team and our users have been building a <a href="https://n8n.io/workflows/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">workflow template library</a> to help others easily get started with n8n automations. 
